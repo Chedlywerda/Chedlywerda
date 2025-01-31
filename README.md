@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ogust](https://github.com/siadminogust)
 
-- 📫 How to reach me **chedlywerda6@gamil.com**
+- 📫 How to reach me **chedlywerda6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
